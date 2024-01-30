@@ -1,0 +1,88 @@
+.env
+
+# Node.js
+node_modules/
+
+# Dependency directories
+pypi/
+bin/
+lib/
+vendor/
+bower_components/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Compiled source
+*.class
+*.war
+*.ear
+*.jar
+
+# Compiled Python bytecode
+__pycache__/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+*.user
+*.suo
+*.tmp
+*.tmp_proj
+*.log
+*.tlog/
+*.lastbuildstate
+*.log
+*.dbmdl
+
+# Compiled binaries
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.out
+*.pyc
+
+# Package files
+*.zip
+*.tar.gz
+*.tar.xz
+*.tar.bz2
+
+# Miscellaneous
+*.bak
+*.DS_Store
+*.orig
+*.rej
+*.patch
+*.swp
+*.tmp
+*.tmp.*
+*.log
+*.log.*
+*.old
+*.backup
+*.bak
+*.md~
+*.~
