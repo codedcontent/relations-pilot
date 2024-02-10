@@ -6,7 +6,7 @@ const scheduleCronJobs = () => {
   cron.schedule("*/5 * * * * *", async () => {});
 
   // Run every Saturday at 4 AM
-  cron.schedule("0 4 * * 6", async () => {
+  cron.schedule("30 5 * * *", async () => {
     sendReminderEmails();
   });
 };

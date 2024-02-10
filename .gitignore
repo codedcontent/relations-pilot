@@ -3,6 +3,9 @@
 # Node.js
 node_modules/
 
+# Dev files
+html
+
 # Dependency directories
 pypi/
 bin/
